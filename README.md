@@ -1,1 +1,1 @@
-# Flutter-Tutorial
+Flutter Switch is used to switch a setting between on/off. When the switch is on, the value returned by the Switch onChanged property is true, while the switch is off, onChanged property returns false. 
